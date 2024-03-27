@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishraq Al_Dagamseh</h1>
-<h3 align="center">A passionate Artificial intelligent (AI) and python developer from Jordan But residing in UAE</h3>
+<h3 align="center">A passionate Artificial Intelligence (AI) and python developer from Jordan But residing in UAE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishraq-dagamseh&label=Profile%20views&color=0e75b6&style=flat" alt="ishraq-dagamseh" /> </p>
 
